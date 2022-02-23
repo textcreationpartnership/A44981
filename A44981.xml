@@ -1,0 +1,217 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Weavers of London do humbly offer to the serious consideration of both houses of Parliament, that this kingdom of England will sustain great evils and damage by enjoyning the wear of woollen manufactures and leather ...  by a law and so consequently restraining the wear of silks and hair stuffs manufactured in England, and that great benefit may ensue to the English nation, by prohibiting the use and wear of silks and stuffs foreign manufactur'd, appears by these following particulars ...</title>
+            <author>Worshipful Company of Weavers (London, England)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44981</idno>
+            <idno type="STC">Wing H3422</idno>
+            <idno type="STC">Wing W1194B</idno>
+            <idno type="STC">ESTC R16181</idno>
+            <idno type="EEBO-CITATION">12159568</idno>
+            <idno type="OCLC">ocm 12159568</idno>
+            <idno type="VID">55260</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44981)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55260)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 73:19 or 361:1g)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Weavers of London do humbly offer to the serious consideration of both houses of Parliament, that this kingdom of England will sustain great evils and damage by enjoyning the wear of woollen manufactures and leather ...  by a law and so consequently restraining the wear of silks and hair stuffs manufactured in England, and that great benefit may ensue to the English nation, by prohibiting the use and wear of silks and stuffs foreign manufactur'd, appears by these following particulars ...</title>
+                  <author>Worshipful Company of Weavers (London, England)</author>
+               </titleStmt>
+               <extent>[1], 4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Endorsed: Weavers of London.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Item at reel 73:19 identified as Wing H3422.</note>
+                  <note>Reproductions of original in Yale University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Weavers --  England --  London.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="docket_title">
+            <pb facs="tcp:55260:1"/>
+            <p>REASONS Againſt Wearing of <hi>India</hi> Wrought Silks, Bengals, and Callicoes, In <hi>England,</hi> and the Plantations.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:55260:1" rendition="simple:additions"/>
+            <head>The <hi>WEAVERS</hi> of <hi>London</hi> do humbly offer to the ſeri<g ref="char:EOLhyphen"/>ous Conſideration of both Houſes of Parliament;</head>
+            <argument>
+               <p>That this Kingdom of <hi>England</hi> will ſuſtain great Evils and Damage by enjoyning the Wear of Woollen Manufactures and Leather, both by Men, Women, and Children, by a Law; and ſo conſequently reſtraining the Wear of Silks and Hair Stuffs manufactured in <hi>England;</hi> And that great benefit may enſue to the Engliſh Nation, by prohibiting the Uſe and Wear of Silks and Stuffs Foreign manufactur'd, appears by theſe following Particulars, <hi>viz.</hi>
+               </p>
+            </argument>
+            <p>THE <hi>Reſtraint</hi> of wearing Silks, and Stuffs made of <hi>Mohair Yarn</hi> manufactured in <hi>England,</hi> will neceſſarily impoveriſh and depopulate the Nation, there being no Trades in <hi>England</hi> that imploy ſo many People as thoſe relating to the Manufa<g ref="char:EOLhyphen"/>cturing of Silk and Hair; for upon the moſt modeſt computation they are judg<g ref="char:EOLhyphen"/>ed to be above. Three hundred thouſand Souls <hi>Weavers, Throwſters, Windſters, Dyers,</hi> and other Dependents thereupon, that do ſubſiſt thereby, and that have no other way of Livelyhood; and a great part of theſe have ſerved ſeven years Apprentiſhip to their ſeveral Trades, according to the Laws of this Nation, (which makes their Trades a Freehold and Inheritance) and have Families depend upon them. Now if by <hi>Law</hi> there ſhould be any Reſtraint of wearing <hi>Engliſh made Silks and Hair Stuffs</hi> for any part of the Year, they would be deprived of their ſaid Freehold and Inheritance, and muſt of neceſſity not only be impove<g ref="char:EOLhyphen"/>riſhed, but want bread in one year, nay the greateſt part of them in one Months time, they having nothing but from hand to mouth, and what they get by their daily Labour to ſupply their daily Wants; and conſequently the greateſt part of them muſt be neceſſitated in a ſhort time either to take rude and deſperate courſes, or tranſport themſelves into Foreign Parts to get their Bread; there being no other Imployment (either Handicraft or others) that can receive one fourth part of ſo great a Number, conſidering that the <hi>Old and Young</hi> are hereby imployed, and cannot otherwiſe, but be chargable to the places of their Abode.</p>
+            <p>If it be objected, that this <hi>Reſtraint</hi> is intended but for five Months in the Year, and therefore cannot have ſuch diſmal Effects as are before mentioned: For Anſwer it is ſaid, That theſe five Months <hi>Reſtraint</hi> of wearing them will take off the Imployment of the Ma<g ref="char:EOLhyphen"/>nufacturers thereof eight Months in the Year, and in little time amount to little leſs than a total Prohibition of them; for that the perſons that wear <hi>Engliſh made Silks and Hair Stuffs</hi> are generally of the beſt Quality, and all of them either Leaders or Followers of the neweſt Modes and Faſhions, and therefore it cannot be ſuppoſed that they will buy Silk Garments to lay by them all the Winter to wear in Spring, for that then newer Modes and Faſhions will come in, and there cannot be allowed leſs (one with another) than three or four Months for them to wear out a Silk Garment: So that take the five Months in the Year wherein they are not to be worn at all, and the three or four Months before, which muſt be allowed for the wearing of thoſe they have already bought, there will not remain above three or four Months at moſt for the Manufacturers to ſell their Silks and Stuffs; which amounts to little leſs than a total Prohibition, for this reaſon, for that the Merchants either cannot, or at leaſt will not, give credit to the <hi>Weaver or Throwſter</hi> the Year round; and if they ſhould, yet is there not one <hi>Weaver or Throwſter</hi> in a thouſand, that is able to ſupply their <hi>Workmen and Windſters</hi> with Money ſo long time, without Returns of Money for their Commodities, So that it is manifeſt notwithſtanding this Objection, the forementioned miſchiefs of Poverty and Depopulation muſt enſue upon it.</p>
+            <p>And if it be objected, That it is not intended to reſtrain the wear of Stuffs made of <hi>Mohair Yarn,</hi> commonly called <hi>Chamlets,</hi> or other Stuffs, whereof the Woof or Warp ſhall be of <hi>Mohair Yarn;</hi> This muſt be acknowledged to be ſo, but withall, theſe Chamlets and Stuffs are limitted to be uſed for Cloaks and Coats for Men only, which do not work up the fourth Part of the Mohair Yarns imported, nor do they imploy one ſixth Part of the Hands that Mohair Yarns would imploy; for it is to be noted, that the ſeveral Commodities here<g ref="char:EOLhyphen"/>after named, <hi>viz.</hi>
+               <list>
+                  <item>Barratines</item>
+                  <item>Prunella's</item>
+                  <item>Criſpiana's</item>
+                  <item>Tamaleta's</item>
+                  <item>Calamantoes</item>
+                  <item>Mohairs</item>
+                  <item>Farrendines</item>
+                  <item>Morella's</item>
+               </list>
+and divers other Stuffs are made up of three Parts of Mohair Yarn, and but one Part of Silk; and theſe are cheifly for the uſe of Women and Children in the Winter ſeaſon who <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not allowed to wear the ſame.</p>
+            <pb n="2" facs="tcp:55260:2"/>
+            <p>That as this will impoveriſh the Manufacturers of <hi>Silk and Hair Stuffs,</hi> ſo it will alſo dimi<g ref="char:EOLhyphen"/>niſh the conſumption of Wooll, and impoveriſh the Manufacturers thereof, and conſequent<g ref="char:EOLhyphen"/>ly cauſe yet a greater Depopulation of the Nation.</p>
+            <p>Becauſe the greateſt part of our Cloths and Stuffs made here of <hi>Engliſh Wooll</hi> are tranſ<g ref="char:EOLhyphen"/>ported beyond the Seas, and chiefly to <hi>Turky;</hi> in exchange whereof the Merchants bring <hi>raw Silks and Mohair Yarn,</hi> which ſets ſo many thouſand people to work again; and if the Conſumption of <hi>Silk and Hair</hi> be abated in <hi>England,</hi> as it muſt needs be by the <hi>Reſtraint</hi> of the Wear thereof, the Exportation of Cloth muſt needs abate proportionably thereunto, for that there is little other Commodities proper for <hi>England</hi> to be had there in exchange for our Cloths; ſo that whereas the <hi>Turky Company</hi> in particular have of late exported twenty five or thirty thouſand Cloths in a Year, they may be reduced to ten or twelve thouſand, and by degrees to little or nothing; and conſequently there will be eighteen or twenty thouſand Cloths lie on the Clothiers hands in one Year more than they can vend; and that there will be ſuch an Abatement in the Exportation of <hi>Engliſh</hi> Cloths, if <hi>Engliſh made Silks and Hair Stuffs</hi> be not allowed to be worn five Moneths in the Year, will appear not onely from the former Argument, that there are little other Commodities to exchange in <hi>Turky</hi> for them but <hi>Silk and Hair;</hi> but alſo becauſe the Winter Seaſon, wherein theſe <hi>Silks and Stuffs</hi> are prohibited to be worn, is the chief time for the Conſumption of <hi>Silk and Hair Stuffs,</hi> for that the richeſt <hi>Silks and Stuffs</hi> are worn in that ſeaſon, and is the principal time for the Conſump<g ref="char:EOLhyphen"/>tion of them. And if this be true, (as moſt certain it is) that this will cauſe ſo great an Abate<g ref="char:EOLhyphen"/>ment in the Exportation of our Cloths made of <hi>Engliſh Wooll,</hi> what miſerable Poverty and Deſolation will it bring upon the Manufacturers of the Staple Commodity of this Nation, and in little time force them alſo to tranſport themſelves to Forein Parts, to the great Depo<g ref="char:EOLhyphen"/>pulation, Diſhonour, and Danger of the Nation; for hereby there will not be People ſuffici<g ref="char:EOLhyphen"/>ent to eat up the Corn, nor ſtrength to defend the Nation.</p>
+            <p>If it be objected, That the enjoyning the wearing of Woollen Manufacture five Months in the Year, will anſwer the Conſumption of Wooll that is abated in the Exportations: It is anſwered, That it had need exceed it three times over; for that the making 60000 Cloths in a Year more than now is, will not ſet ſo many people at work, as the other will throw out of work; and if it could be ſuppoſed that there would be vent for ſo many more, it is preſumed there would not be found Wooll enough to make them, it being now ſomewhat a ſcarce Commodity, and raiſed in price a third part to what it was ſome years paſt. So that indeed at this time there is no juſt cauſe to complain of the want of Conſumption of Wooll, it being a good ſcarce and ready money Commodity; but that the <hi>Reſtraint of Silk and Hair Stuffs,</hi> and the enjoyning the Wear of Woollen, will neither increaſe the Conſumption of it to ſuch a degree, nor yet anſwerable to the Abatement of the Exportation of it by 15 or 20000 Clothes <hi>per annum,</hi> is proved thus; becauſe the Nobility, Gentry, and better ſort of Tradeſ<g ref="char:EOLhyphen"/>men, will not wear our courſe Cloths made of <hi>Engliſh Wooll</hi> onely, but fine <hi>Dutch</hi> Cloth, and Cloth made of <hi>Spaniſh Wooll,</hi> which in ſome of the fineſt Cloths have not above five or ſix pounds of <hi>Engliſh Wooll</hi> in a whole Cloth, as the Makers of fine Cloths will acknow<g ref="char:EOLhyphen"/>ledge; ſo that little <hi>Engliſh Wooll</hi> will be conſumed by them that uſe to wear Silks and Stuffs, and on the other hand the poor Manufacturers both of <hi>Woollen, Silk, and Hair,</hi> they general<g ref="char:EOLhyphen"/>ly wear our courſe Cloths and Stuffs made all of <hi>Engliſh Wooll,</hi> and theſe being either impo<g ref="char:EOLhyphen"/>veriſhed hereby that they cannot cloath themſelves but with Rags, or be forc'd beyond the Seas, muſt neceſſarily cauſe a far leſs Conſumption of our <hi>Engliſh Wooll.</hi> For it cannot be ſuppoſed that the expence of <hi>Engliſh Wooll</hi> in fine Cloths, can anſwer to the loſs of that expence which is now worn by theſe poor Creatures. So that indeed the expence of <hi>Engliſh Wooll</hi> will by this means be abated in <hi>England</hi> not onely ſo much, but much more than what the Abatements of the Exportations of our Woollen Manufactures amount unto, by means of ſuch a <hi>Reſtraint</hi> of the one, and enjoyning the other.</p>
+            <p>That by <hi>Reſtraint</hi> of the Wear of any part of Silk, the Conſumption of Wooll muſt needs be leſſen'd, for that the ſeveral Stuffs hereafter mentioned, <hi>viz.</hi>
+               <list>
+                  <item>Bombazines</item>
+                  <item>Anthorines</item>
+                  <item>Silk Sayes</item>
+                  <item>Crape</item>
+                  <item>Silk Maſquerades</item>
+                  <item>Stript Cheneys</item>
+                  <item>Virgins Beauty</item>
+                  <item>Drafts of all ſorts</item>
+                  <item>Druggets of all ſorts</item>
+                  <item>Silk Calamantoes</item>
+                  <item>Silk Glorioſa's of all ſorts</item>
+                  <item>Silk Shades</item>
+                  <item>Worſted Barratines</item>
+                  <item>Glaſſamines</item>
+                  <item>Katherina's</item>
+                  <item>Tameenes</item>
+                  <item>Eſtameenes</item>
+                  <item>Effegenes</item>
+               </list>
+and all or moſt of <hi>Norwich Stuffs,</hi> with great numbers of other Stuffs, too many to be here inſerted, having but one part of Silk in them, and nine parts of Worſted, which is our <hi>Eng<g ref="char:EOLhyphen"/>liſh Sheeps Wooll,</hi> which through the Ingenuity of the <hi>Weavers</hi> and other concern'd therein, are made very acceptable for the uſe and wearing of divers perſons in the Winter Seaſon; yet becauſe of that little part of Silk in them, cannot then be worn in Apparel, to the leſſening
+<pb n="3" facs="tcp:55260:2"/>the Conſumption of Wooll, and to the taking away the chief part of the Trade and Imploy<g ref="char:EOLhyphen"/>ment of many thouſand perſons.</p>
+            <p>This <hi>Injunction</hi> of the one, and <hi>Reſtraint</hi> of the other, will much depreſs the Proteſtant, and advance the Papal Intereſt, not only in <hi>England,</hi> but throughout <hi>Europe;</hi> and were it not but that by the unanimous Votes of this preſent <hi>Proteſtant Parliament,</hi> wherein (to the chearing of <hi>Engliſh Hearts</hi>) they have manifeſted ſo much zeal for the <hi>Proteſtant Intereſt,</hi> and the Rights and Privileges of <hi>Engliſhmen,</hi> it would cauſe great ſuſpicion of ill deſigns; for there is nothing more conducing to the deſtruction of the <hi>Proteſtant Religion,</hi> and the ad<g ref="char:EOLhyphen"/>vancement of <hi>Popery,</hi> than the diſuniting of the Hearts and Affections of the <hi>Engliſh people,</hi> who are generally <hi>Proteſtants,</hi> and the beſt ſort of <hi>Proteſtants.</hi> And this the <hi>Jeſuits</hi> have not been wanting by all means to effect, and there is nothing more proper thereunto, than to bring off the Affections of the People from the Love of <hi>Parliaments</hi> by any means whatſo<g ref="char:EOLhyphen"/>ever, which they know are the greateſt Anticipation and Obſtruction of their damnable de<g ref="char:EOLhyphen"/>ſigns; but through the mercy of God they have in a great meaſure been hitherto prevented, and it's hoped yet will, by a timely proſpect of thoſe things that may cauſe it. And though it cannot be thought, that any true <hi>Engliſhman</hi> would knowingly countenance, but deteſt ſuch deſigns; yet it is feared if ſuch an Act ſhould paſs, it would not only alienate the Affections of many thouſand <hi>Proteſtants,</hi> by expoſing them to Want and Penury, and to beg their Bread, and ſeek it in other Countries; but alſo would make this great and populous Nation, (which at preſent under God is the Fortreſs of the <hi>Proteſtant Religion</hi>) indefenſible againſt the Papal deſigns, by ſcattering up and down in other parts of the World, thoſe that are ready at all times, and beſt adapted to defend it, and put them upon a temptation by their neceſſities and dwelling amongſt them to turn Papiſts. And this alſo in a ſhort time will carry away the Trade of the Nation (which is now increaſing and flouriſhing) to other parts of the World that are generally our Enemies; to the utter ruine of the whole Nation, both in Trade and Navigation, and the ſacred Religion thereof. And of what evil conſe<g ref="char:EOLhyphen"/>quence this will be to the Nobility and Gentry, by bringing down the price of their Lands, may eaſily be conceived by an ordinary Capacity.</p>
+            <p>Again, If this <hi>Injunction</hi> of the one, and <hi>Reſtraint</hi> of the other, do paſs into a Law, it will not only deſtroy the moſt chief and principal Manufacture of the Nation, whereby ſo many Thouſand Native <hi>Proteſtants</hi> get their livelihood and ſubſiſtance, but (which is conſide<g ref="char:EOLhyphen"/>rable) it may truly be called the <hi>Proteſtant Trade,</hi> for it ſets to work and employs moſt of the Strangers and Foreign <hi>Proteſtants</hi> that fly from the tyrannical Perſecutions of the <hi>Papiſt</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> other Countries, and <hi>They</hi> muſt be forced alſo to return again; for it is judged that <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Parts of ten of the <hi>Proteſtant</hi> Strangers that comes over into <hi>England,</hi> are employ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Trade of <hi>Silk</hi> and <hi>Hair,</hi> to their great comfort both of Soul and Body: And the <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>London</hi> do freely receive them, and that in ſo great numbers, that a very great <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Silk</hi> and <hi>Hair-weaving</hi> Trade is managed by them and their Dependants. And <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Silk</hi> and <hi>Hair</hi> Trade encouraged, as it's hoped it will by this <hi>Parliament,</hi> there might y<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> received 100000 more into the Trade, ſo beneficial is it to <hi>England,</hi> and ſo conſiderable to the ſtrength of the <hi>Proteſtant</hi> Intereſt.</p>
+            <p>But now if it ſhall pleaſe the <hi>Parliament</hi> inſtead of <hi>reſtraining</hi> the wear of our own Manu<g ref="char:EOLhyphen"/>factures, to <hi>prohibit</hi> the wearing of <hi>Silks</hi> and <hi>Stuffs</hi> Manufactured in Foreign Parts, this would certainly inrich and people the Nation, and cauſe a greater Conſumption of Wool, as alſo advance and ſtrengthen the Intereſt of the <hi>Proteſtant Religion.</hi>
+            </p>
+            <p>It will inrich and people the Nation, for that a great deal of the Money that is ſent out of the Nation to purchaſe the <hi>Silks</hi> and <hi>Stuffs</hi> Foreign Manufactured, will be kept among us; as alſo all that Money that is paid to Workmen abroad for the Manufucturing of theſe <hi>Silks</hi> and <hi>Stuffs,</hi> will be earned by the Natives and Strangers in <hi>England,</hi> and ſo make way for the Employment of many Thouſands more than is in the Nation.</p>
+            <p>It will alſo increaſe the Conſumption of <hi>Engliſh</hi> Wool abundantly, for that there being more expence of Silk, becauſe of the Manufacturing of thoſe Silks here that uſe to come from other Parts, there will be alſo far greater quantities of Cloths made of <hi>Engliſh</hi> Wool exported in exchange for Silk; and beſides the expence of <hi>Engliſh</hi> Wool will not only be increaſed by the exportation of more Cloths, but a great deal more than is will be worn in <hi>England,</hi> and the Plantations belonging thereunto, by this means; for that Foreign Silks that come ready wrought from other Parts, eſpecially from <hi>Holland, France,</hi> and <hi>Eaſt-India,</hi> with their painted Calicoes, are generally ſlight and very cheap, and ſet up the meaner ſort of People (as Maid-Servants, and others) in the garbs of Gentry, which otherwiſe would wear the decent, uſeful, and profitable wear of Cloth, Kerſies, and other Stuffs made of Wool, as they would alſo do in the Plantations, for that our <hi>Engliſh</hi> Silks being generally rich and well made Silks, they cannot ſo well go to the price of them, and that this prohibition of Foreign-wrought Silks will certainly promote the Conſumption of Wool, is manifeſt by Experience; for ſince the late good Act was made for the prohibiting of <hi>French</hi> Silks,
+<pb n="4" facs="tcp:55260:3"/>(which it's hoped this <hi>Parliament</hi> will renew) there has been greater quantities of raw Silk imported, as alſo greater quantities of Woollen Cloths exported, than was in former years; beſides, greater numbers of People employed, both Native and Foreign <hi>Proteſtants,</hi> to the great benefit of the Nation; which expence of <hi>Engliſh</hi> Wool has been chiefly occaſioned from this cauſe, that more Silks has been made here in that time than before; which is an unde<g ref="char:EOLhyphen"/>niable Argument to prove, that the more Silks are worn in <hi>England</hi> if Manufactured here, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he greater is the Conſumption of <hi>Engliſh</hi> Wool, for ſuch perſon as wears a Silk Garment, doth certainly expend more <hi>Engliſh</hi> Wool (that being the return of Woollen Cloth) than twenty Gentlemen that wears Cloth made of <hi>Spaniſh</hi> Wool, and fine <hi>Dutch</hi> Cloths: And in all probability, if Silks Manufactured here were encouraged, and Silks Foreign, made pro<g ref="char:EOLhyphen"/>hibited to be worn, it would reduce and bring back the whole Trade of the Woollen Manu<g ref="char:EOLhyphen"/>facture into <hi>England</hi> in, a little time, by preventing the exportation of Wool, for if Wool yeild as good or better price here than it doth in other Parts, as it will do if there be more occaſion for it, it will not be tranſported as now it is to <hi>France</hi> and <hi>Holland,</hi> by which means they gain a conſiderable ſhare of our Woollen Trade, to their great benefit both at home and abroad, and to our great loſs and detriment.</p>
+            <p>This muſt needs corroborate and ſtrengthen the Intereſt of the <hi>Proteſtant Religion,</hi> for that this Nation being the chief of all the <hi>Proteſtant</hi> Countries, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Riches and Populouſneſs of it muſt needs ſtrengthen it, as well as the Unity of them one unto the other, and this will certainly cauſe the Nation to flouriſh both in Riches and People, and through the Mercy and Bleſſing of God, make us yet more formidable and ſtrong againſt our implacable Enemies, by enabling of us not only to defend our ſelves againſt them, but to root <hi>Popery</hi> out of this Nation, and the reſt of His Majeſties Dominions.</p>
+            <p>
+               <hi>Fo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> theſe Reaſons, and many others that may be given, it is humbly prayed, That the</hi> Parlia<g ref="char:EOLhyphen"/>ment <hi>would be pleaſed to lay aſide that Bill which would reſtrain the wearing of Silks, and Stuffs Manufactured in</hi> England, <hi>which are ſo beneficial, and inſtead thereof, order a Bill to be brought in for the prohibiting the importation and wearing of Silks and Stuffs Manufactured in Foreign Parts, which are ſo plainly detrimental to the Intereſt of</hi> England: <hi>And the</hi> Engliſh <hi>Artiſts ſhall continue to pray, That as this</hi> Parliament <hi>have begun, ſo God would honour them ſo far, as to finiſh the deliverance of this Nation from</hi> Popery, <hi>and</hi> Slavery <hi>the effect of it.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:55260:3"/>
+            <gap reason="intruder" extent="1 page">
+               <desc>〈1 page inserted from a different book〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
